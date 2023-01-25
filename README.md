@@ -43,5 +43,6 @@ Cuando el programa acaba todos los intentos muestra el mensaje `He perdido… :(
 `EXCELENTE!!! Gane`. Si hacemos trampa (cosa que sería posible), nuestro programa mostrará el mensaje `HAS HECHO TRAMPA!!!`
 
 ### 📚 Bibliografia / fuente: 
-http://www.kaedusoft.edu.uy/
-https://www.udemy.com/course/programacion-profesional-desde-cero/
+- http://www.kaedusoft.edu.uy/
+- https://www.udemy.com/course/programacion-profesional-desde-cero/
+
