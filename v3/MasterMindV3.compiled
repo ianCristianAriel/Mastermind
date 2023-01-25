@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\i386-win32\fpc.exe" Date="1381338394"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\Ian\Documents\WorckSpace\Curso de programacon professional desde cero - Udemy\lib\i386-win32&quot; &quot;-FuC:\Users\Ian\Documents\WorckSpace\Curso de programacon professional desde cero - Udemy\&quot; &quot;-FUC:\Users\Ian\Documents\WorckSpace\Curso de programacon professional desde cero - Udemy\lib\i386-win32\&quot; &quot;-FEC:\Users\Ian\Documents\WorckSpace\Curso de programacon professional desde cero - Udemy\&quot; &quot;-oC:\Users\Ian\Documents\WorckSpace\Curso de programacon professional desde cero - Udemy\MasterMindV3.exe&quot; MasterMindV3.lpr"/>
+</CONFIG>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MasterMindV2_5"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="105"/>
+        <CursorPos X="8" Y="115"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="51" TopLine="34"/>
+      </Position1>
+      <Position2>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="52" TopLine="34"/>
+      </Position2>
+      <Position3>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="54" TopLine="34"/>
+      </Position3>
+      <Position4>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="55" TopLine="34"/>
+      </Position4>
+      <Position5>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="56" TopLine="34"/>
+      </Position5>
+      <Position6>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="69" TopLine="53"/>
+      </Position6>
+      <Position7>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="115" TopLine="97"/>
+      </Position7>
+      <Position8>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="36" TopLine="19"/>
+      </Position8>
+      <Position9>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="37" TopLine="19"/>
+      </Position9>
+      <Position10>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="39" TopLine="19"/>
+      </Position10>
+      <Position11>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="40" TopLine="19"/>
+      </Position11>
+      <Position12>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="41" TopLine="19"/>
+      </Position12>
+      <Position13>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="40" TopLine="19"/>
+      </Position13>
+      <Position14>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="41" TopLine="19"/>
+      </Position14>
+      <Position15>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="40" TopLine="19"/>
+      </Position15>
+      <Position16>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="41" TopLine="19"/>
+      </Position16>
+      <Position17>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="40" TopLine="19"/>
+      </Position17>
+      <Position18>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="41" TopLine="19"/>
+      </Position18>
+      <Position19>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="44" TopLine="19"/>
+      </Position19>
+      <Position20>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="113" Column="8" TopLine="104"/>
+      </Position20>
+      <Position21>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="102" TopLine="85"/>
+      </Position21>
+      <Position22>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="105" TopLine="85"/>
+      </Position22>
+      <Position23>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="22" TopLine="5"/>
+      </Position23>
+      <Position24>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="23" TopLine="5"/>
+      </Position24>
+      <Position25>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="24" TopLine="5"/>
+      </Position25>
+      <Position26>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="25" TopLine="5"/>
+      </Position26>
+      <Position27>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="26" TopLine="5"/>
+      </Position27>
+      <Position28>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="27" TopLine="5"/>
+      </Position28>
+      <Position29>
+        <Filename Value="MasterMind_V2_5.lps.pas"/>
+        <Caret Line="24" TopLine="5"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

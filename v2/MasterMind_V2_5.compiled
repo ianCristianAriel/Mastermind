@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\FPC\3.2.0\bin\i386-Win32\fpc.exe" Date="1355043128"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FuC:\Users\Ian\Documents\Curso de programacon professional desde cero - Udemy\&quot; &quot;-FUC:\Users\Ian\Documents\Curso de programacon professional desde cero - Udemy\lib\i386-win32\&quot; &quot;-FEC:\Users\Ian\Documents\Curso de programacon professional desde cero - Udemy\&quot; &quot;-oC:\Users\Ian\Documents\Curso de programacon professional desde cero - Udemy\MasterMind_V2_5.exe&quot; MasterMind_V2_5.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

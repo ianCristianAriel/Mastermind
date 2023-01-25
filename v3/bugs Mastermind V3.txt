@@ -1,0 +1,4 @@
+Codigo queda en "HHHH":
+El problema tiene que estar en:
+"SiguienteCodigo": las letras no recorren todo el rango de TLetras
+"CalcularNotas": En la asignacion de buenos y regulares y no en el cambio de codigo ya que a esto lo hace de manera correcta
